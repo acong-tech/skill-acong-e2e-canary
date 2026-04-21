@@ -14,7 +14,7 @@ npx skills add acong-tech/skill-acong-e2e-canary
 
 ## Version
 
-Current: `0.20260421.1714`
+Current: `0.20260421.1737`
 
 ## License
 
